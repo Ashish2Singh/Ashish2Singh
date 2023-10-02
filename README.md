@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash1608&show_icons=true&locale=en" alt="ash1608" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash1608&" alt="ash1608" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash1608&" alt="Ashish2Singh" /></p>
